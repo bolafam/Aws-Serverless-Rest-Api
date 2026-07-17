@@ -82,7 +82,17 @@ aws-serverless-rest-api/
 │
 └── .gitignore
 ```
+## Documentation
 
+- [Architecture Notes](docs/architecture-notes.md)
+- [API Specification](docs/api-spec.md)
+- [AWS Cognito](docs/cognito.md)
+- [DynamoDB](docs/dynamodb.md)
+- [IAM](docs/iam.md)
+- [Amazon S3](docs/s3.md)
+- [CloudFront](docs/cloudfront.md)
+- [AWS WAF](docs/waf.md)
+- [Caching](docs/cache.md)
 ---
 
 # DynamoDB Table
