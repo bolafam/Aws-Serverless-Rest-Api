@@ -60,7 +60,15 @@ aws-serverless-rest-api/
 │   └── architecture-diagram.png
 │
 ├── docs/
-│   └── architecture-notes.md
+│   ├── architecture-notes.md
+│   ├── api-spec.md
+│   ├── cache.md
+│   ├── cloudfront.md
+│   ├── cognito.md
+│   ├── dynamodb.md
+│   ├── iam.md
+│   ├── s3.md
+│   └── waf.md
 │
 ├── lambda/
 │   ├── create.py
